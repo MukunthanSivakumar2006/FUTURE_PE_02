@@ -4,7 +4,7 @@
 Brief description of the project, e.g., “This project is an AI-powered [type of project] designed to [purpose/objective]. It leverages machine learning and automation to [key functionality].”
 
 ## Live Website
-Check out the live project here: [Live Website Link](https://mswork.lovable.app/)
+Check out the live project here: (https://mswork.lovable.app/)
 
 ## AI Features
 | Section / Feature | AI Technology Used | Description |
