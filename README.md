@@ -48,6 +48,8 @@ I will share this project on LinkedIn to highlight my work on AI-powered apps du
 * **Program:** Prompt Engineering Internship
 * **Organization:** Future Interns
 * **Timeline:** July 2025 – August 2025
+  
+**[LinkedIn](https://www.linkedin.com/in/mukunthan-s-08a090290/)**
 
 ---
 
