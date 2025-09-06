@@ -1,5 +1,4 @@
-
-## 🤖 AI Features Summary
+# 🤖 AI Features Summary
 
 The following AI features power different sections of the app:
 
